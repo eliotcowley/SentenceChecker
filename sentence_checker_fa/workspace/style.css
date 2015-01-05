@@ -1,0 +1,34 @@
+html, body {
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.status-box {
+    font-family: 'Open Sans', sans-serif;
+    width: 500px;
+    height: 100px;
+}
+
+.button {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.test1, .test2, .test3, .test4, .test5, .test6, .test7, .test8, .test9, .test10, 
+.test11, .finalResult{
+    float: left;
+    padding: 5px;
+}
+
+.result1, .result2, .result3, .result4, .result5, .result6, .result7, .result8, 
+.result9, .result10, .result11 {
+    float: left;
+    padding: 5px;
+}
+
+.output1, .output2, .output3, .output4, .output5, .output6, .output7, .output8, 
+.output9, .output10, .output11, .final {
+    float: left;
+    width: 100%;
+    height: 50px;
+}
